@@ -1,13 +1,13 @@
 # Proiect Proiectarea Algoritmilor 2021 | 3 Check Chess
 ## Echipa 
 
- 🐑 Cioban George-Adrian 🐾 324CC
+ 🐑 Cioban George-Adrian 
 
- 🦝 Damian Robert-Eugen 🐾 324CC 
+ 🦝 Damian Robert-Eugen 
 
- 🦊 Stanescu Gabriel 🐾 324CC
+ 🦊 Stanescu Gabriel 
 
- 🦩 Strutu Ilinca-Ioana 🐾 321CC
+ 🦩 Strutu Ilinca-Ioana 
 
 ## Organizare
 
@@ -103,4 +103,4 @@
     
     🌱 Daca luam de trei ori sah, dam resign si dam restart la tabla de joc.
 
-![Alt Text](https://cdn.discordapp.com/attachments/817119851255431198/839598367260409907/tiganul_pupacios.gif)
+
